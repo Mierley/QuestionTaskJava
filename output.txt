@@ -1,0 +1,53 @@
+==============Exam==============
+1) There is no difference between concurrency and parallelism, they are just synonyms.
+Answer: true false (circle the right answer)
+
+2) It is possible to start a thread twice.
+Answer: true false (circle the right answer)
+
+3) What is the main function of the computer?
+	1) Compute Pi with required precision
+	2) Execute computer games
+	3) Execute a set of machine instructions
+	4) Control the traffic light system
+
+4) A reference type U conforms to a reference type T if either:
+	1) They have no generic parameters, and U is a descendant of T;
+	2) U has generic parameter(s), and T is a descendant of U;
+	3) They are both generic derivations with the same number of actual generic parameters
+	4) They are both generic derivations where the number of actual generic parameters does not matter
+
+5) What is the main function of the computer?
+Answer: ____________________
+
+6) Explain how JVM works:
+
+
+
+
+
+==========Exam answers==========
+1) There is no difference between concurrency and parallelism, they are just synonyms.
+Answer: false
+
+2) It is possible to start a thread twice.
+Answer: false
+
+3) What is the main function of the computer?
+	1) Compute Pi with required precision
+	2) Execute computer games
+ -> 3) Execute a set of machine instructions
+	4) Control the traffic light system
+
+4) A reference type U conforms to a reference type T if either:
+ -> 1) They have no generic parameters, and U is a descendant of T;
+	2) U has generic parameter(s), and T is a descendant of U;
+ -> 3) They are both generic derivations with the same number of actual generic parameters
+	4) They are both generic derivations where the number of actual generic parameters does not matter
+
+5) What is the main function of the computer?
+Accepted answers: [compute, execute]
+
+6) Explain how JVM works:
+It works will
+Note: To be checked manually
